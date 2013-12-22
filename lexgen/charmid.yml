@@ -1,0 +1,20 @@
+---
+patterns:
+  - CF
+  - CFC
+  - CFCF
+  - CFCFC
+  - CFCFCF
+  - CB
+  - CBC
+  - CBCB
+  - CBCBC
+  - CBCBCB
+
+groups:
+  C:
+    [p, b, t, d, k, g, q, m, n, ng, r, f, v, s, z, sh, zh, x, gh, rh, ch, j, l]
+  V:
+    [a, á, e, o, ï, i, ü, u]
+  F: [a, e, ï, ü]
+  B: [á, o, i, u]
